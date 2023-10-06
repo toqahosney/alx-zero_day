@@ -1,1 +1,1 @@
-git fetch origin main\n\ngit merge origin/main
+git pull origin master
